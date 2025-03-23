@@ -1,11 +1,29 @@
- Introducing My To-Do List Project! 🚀📋
+ ✅ To-Do List App
+A simple and interactive To-Do List built with HTML, CSS, and JavaScript. This project helps users manage tasks efficiently with features like editing, deleting, task scoring, and a dynamic progress bar.
 
-Excited to share my latest JavaScript-powered To-Do List! This project helped me enhance my CSS and JavaScript skills while building an interactive task management system.
+🚀 Features
+✔️ Add, Edit & Delete Tasks – Modify or remove tasks anytime.
+✔️ Task Score Tracking – Displays total tasks and completed tasks.
+✔️ Progress Bar – Updates dynamically based on completed tasks.
+✔️ Responsive Design – Works smoothly on different devices.
 
-🔹 Key Features:
-✔️ Task Edit & Delete Options – Easily modify or remove tasks as needed.
-✔️ Task Score Tracking – Keeps count of total tasks and completed tasks.
-✔️ Progress Bar – Dynamically updates based on completed tasks, giving a visual sense of productivity.
+🎯 What I Learned
+This project improved my CSS & JavaScript skills, especially in:
 
-💡 What I Learned:
-This project gave me hands-on experience in DOM manipulation, event handling, and UI enhancements using JavaScript & CSS. Implementing a real-time progress bar was particularly fun and rewarding!
+DOM manipulation for handling tasks dynamically.
+
+Event handling for interactive features.
+
+CSS styling & animations for a better user experience.
+
+📌 Demo & Code
+🔗 Live Demo: 
+🔗 GitHub Repository: 
+
+📷 Screenshots
+(Add some images/gifs of your project if possible!)
+
+💡 Future Improvements
+Add drag & drop to reorder tasks.
+
+Implement local storage to save tasks.
