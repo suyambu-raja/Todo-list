@@ -16,13 +16,6 @@ Event handling for interactive features.
 
 CSS styling & animations for a better user experience.
 
-📌 Demo & Code
-🔗 Live Demo: 
-🔗 GitHub Repository: 
-
-📷 Screenshots
-(Add some images/gifs of your project if possible!)
-
 💡 Future Improvements
 Add drag & drop to reorder tasks.
 
